@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project is a Data Analyst Capstone Assignment based on the Stack Overflow Developer Survey dataset. The objective is to demonstrate end-to-end data analysis skills including:
+This project is a Data Analyst Capstone Assignment based on the Stack Overflow Developer Survey dataset. The objective is to demonstrate end-to-end data analysis skills, including:
 
 - Data cleaning and preprocessing
 - Feature engineering and transformation
@@ -13,7 +13,8 @@ This project is a Data Analyst Capstone Assignment based on the Stack Overflow D
 - Dashboard development
 - Insight generation for real-world decision-making
 
-Final Output
+Final Output  
+
 📄 Capstone Project Report (PDF presentation)  
 📊 Interactive Dashboard (embedded in report or exported visuals)  
 📁 Dataset used for analysis  
