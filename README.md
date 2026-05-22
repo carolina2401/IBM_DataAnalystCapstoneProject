@@ -14,7 +14,7 @@ This project is a Data Analyst Capstone Assignment based on the Stack Overflow D
 - Insight generation for real-world decision-making
 
 Final Output
-📄 Capstone Project Report (PDF presentation)
-📊 Interactive Dashboard (embedded in report or exported visuals)
-📁 Dataset used for analysis
-💻 Supporting Jupyter notebooks
+📄 Capstone Project Report (PDF presentation)  
+📊 Interactive Dashboard (embedded in report or exported visuals)  
+📁 Dataset used for analysis  
+💻 Supporting Jupyter notebooks  
