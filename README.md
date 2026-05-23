@@ -16,6 +16,6 @@ This project is a Data Analyst Capstone Assignment based on the Stack Overflow D
 ## Final Outputs  
 
 📄 Capstone Project Report (PDF presentation)  
-📊 Interactive Dashboard: [Stack Overflow Survey Dashboard (IBM Cognos)] (https://github.com/carolina2401/IBM_DataAnalystCapstoneProject/blob/main/Stack-Overflow-Survey-Dashboard-IBMcognos.pdf)  
+📊 Interactive Dashboard: [Stack-Overflow-Survey-Dashboard-IBMcognos.pdf](https://github.com/carolina2401/IBM_DataAnalystCapstoneProject/blob/main/Stack-Overflow-Survey-Dashboard-IBMcognos.pdf)    
 📁 Dataset used for analysis  
 💻 Supporting Jupyter notebooks  
